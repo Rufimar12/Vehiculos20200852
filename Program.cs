@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
+using Vehiculos20200852.Data.Context;
 using Vehiculos20200852.Data;
 
 var builder = WebApplication.CreateBuilder(args);
